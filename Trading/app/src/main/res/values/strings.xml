@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trading</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!--firebase database fields-->
+    <string name="dbName_Users">Users</string>
+    <string name="dbName_user_profile_data">user_profile_data</string>
+
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="profile_fragment">Profile</string>
+</resources>
